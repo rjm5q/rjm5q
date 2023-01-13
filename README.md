@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- My name is Ryan Morse. I'm an IT Professional and currently nearing the end of my Bachelor of Science in Computer Science. 
+- My name is Ryan Morse. I'm an IT Professional and currently nearing graduation from Middle Tennessee State University with a Bachelor of Science in Computer Science. 
 <!--
 **rjm5q/rjm5q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
